@@ -1,20 +1,23 @@
 # Site settings
-title: Andrew Wagnitz - A glimpse into my mind
+title: Andrew Wagnitz - A glimpse into my Mind
 email: andrew@wagnitz.com
 description: > # A blog for people like me, Entrepreneurs
  A blog for people like me, Entrepreneurs
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "wagnitz.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
+  
+  About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', '/author/michelle', 'fa-user']
-single_footer: '<p>Andrew Wagnitz &copy; 2016 <a href="/">latest posts</a></p>'
+single_footer: '<p>&copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
     
+
 
 # Build settings
 # markdown: kramdown
