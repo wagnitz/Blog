@@ -2,7 +2,7 @@
 layout: post
 title:  "10 Reasons to travel the world"
 date: 2021-08-07 08:50:28
-categories: travel storytime
+categories: travel storytime motivation
 author_name : Andrew Wagnitz
 author_url : /author/dan
 author_avatar: dan
