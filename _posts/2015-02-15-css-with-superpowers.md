@@ -5,6 +5,7 @@ date: 2015-02-11 08:50:28
 categories: coding css
 author_name : Michelle Jones
 author_url : /author/michelle
+author_avatar: michelle
 show_avatar : true
 read_time : 34
 feature_image: feature-fire
