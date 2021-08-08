@@ -4,12 +4,12 @@ title: Author
 permalink: author/dan/
 feature_image: feature-plantpot
 author_avatar: dan
-author_name: Dan Robberts
-title: Dan Robberts
+author_name: Andrew Wagnitz
+title: Andrew Wagnitz
 ---
 
-# Dan Robberts
+# Andrew Wagnitz
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
+Sample Data 1,2,3
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
