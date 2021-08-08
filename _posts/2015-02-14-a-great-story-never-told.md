@@ -6,23 +6,23 @@ author_name : Michelle Jones
 author_url : /author/michelle
 author_avatar: michelle
 show_avatar : true
-read_time : 12
+read_time : 13
 feature_image: feature-wolf
 show_related_posts: true
 square_related: recommend-woods
 ---
 
-I've never told this to anyone. Sit yourself down and strap yourself in, you will experience some turbulence before you reach a steady altitude.
+As an entrepreneur, you have to always be on the go and never stop hustling. But what happens when you need to take a break? When should entrepreneurs take time off or work less hours each day? We are all different and we all have different needs.   12
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.
+This blog post will explore how entrepreneurs can figure out their own schedule that works best for them. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.
+1) Write down what your goals are in this business/project-  
+2) Figure out where you're currently at with these goals 
 
-![iceland]({{site.url}}/{{site.baseurl}}img/post-assets/iceland.jpg)
+3) Create a plan for yourself that is achievable but challenging enough to push you towards achieving your goal 
 
+4) Get back up quickly after any failures
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.
+5) Remember that it's okay not to know everything right away as long as you put
 
 
